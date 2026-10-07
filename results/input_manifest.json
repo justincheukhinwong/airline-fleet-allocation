@@ -1,0 +1,38 @@
+[
+  {
+    "input": "T100_2019",
+    "path": "data/raw/T100_2019.zip",
+    "bytes": 2995884,
+    "sha256": "791abba1d556e2c65ad1730fb63eb3b8b0160c3ffc22bca622a5679ca11503de"
+  },
+  {
+    "input": "T100_2023",
+    "path": "data/raw/T100_2023.zip",
+    "bytes": 3275269,
+    "sha256": "fc94f9eb548e8f3d892caee18987ea58ffb98ed6a7a10dc7548bfcb15f6129e5"
+  },
+  {
+    "input": "T100_2024",
+    "path": "data/raw/T100_2024.zip",
+    "bytes": 3480779,
+    "sha256": "552da93e0c41b6b092f173510d5027d1b80aa70145be434a2bdc177114914399"
+  },
+  {
+    "input": "T100_2025",
+    "path": "data/raw/T100_2025.zip",
+    "bytes": 3653990,
+    "sha256": "09cc07d9e15f917e8027d0f0c131387e204fb3e224b0ac2486a5661cfee3d90e"
+  },
+  {
+    "input": "aircraft_lookup",
+    "path": "data/reference/L_AIRCRAFT_TYPE.csv",
+    "bytes": 14177,
+    "sha256": "4fdb4909c671582f0267a730b7a486cab218d2405076d95c344e4d4b2f77d4c4"
+  },
+  {
+    "input": "taiwan_annual",
+    "path": "data/raw/108_112-114.zip",
+    "bytes": 311753,
+    "sha256": "1ce1f90c4ac3ff24e23269c065bb0fd549abc219a4318d9c44d7083c43fd3c2f"
+  }
+]

@@ -1,0 +1,5 @@
+model,feature,coefficient_seats
+Market benchmark,YEAR_CAT_2023,-7.044400094569062
+Market benchmark,YEAR_CAT_2024,-3.2456253950780223
+Market benchmark,YEAR_CAT_2025,-4.320468234410059
+Market benchmark,log_monthly_departures,-15.102756928076289

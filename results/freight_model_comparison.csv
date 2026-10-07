@@ -1,0 +1,3 @@
+model,evaluation,observations,departures,weighted_r_squared,weighted_mae_seats,weighted_rmse_seats
+Reliable-freight subset without freight,"In-sample, departure-weighted",7450,269291.0,0.6636583522345523,24.117092472806036,32.77598982888986
+Reliable-freight subset with freight,"In-sample, departure-weighted",7450,269291.0,0.6673449134716327,23.901771478743015,32.59586997062385

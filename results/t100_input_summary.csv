@@ -1,0 +1,5 @@
+YEAR,rows,months,carriers,origin_airports,destination_airports,aircraft_codes,aircraft_lookup_match
+2019,92371,12,276,911,894,136,1.0
+2023,102133,12,250,989,948,129,1.0
+2024,108801,12,262,963,930,137,1.0
+2025,112306,12,256,983,943,130,1.0

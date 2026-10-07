@@ -1,0 +1,14 @@
+YEAR,UNIQUE_CARRIER,UNIQUE_CARRIER_NAME,ROUTE,AIRCRAFT_TYPE_REPORTED,AIRCRAFT_DESCRIPTION_REPORTED,AIRCRAFT_DESCRIPTION_ANALYSIS,rows,departures,seats,min_gauge,median_gauge,max_gauge
+2024,OZ,Asiana Airlines Inc.,LAX–ICN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),18,550.0,271150.0,493.0,493.0,493.0
+2024,SQ,Singapore Airlines Ltd.,SFO–SIN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),18,548.0,227236.0,414.0,415.0,415.0
+2025,SQ,Singapore Airlines Ltd.,SFO–SIN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),15,438.0,181470.0,414.0,414.0,415.0
+2025,OZ,Asiana Airlines Inc.,LAX–ICN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),13,397.0,191178.0,453.4516129032258,493.0,493.0
+2019,OZ,Asiana Airlines Inc.,JFK–ICN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),8,243.0,115425.0,415.0,495.0,495.0
+2025,OZ,Asiana Airlines Inc.,JFK–ICN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),2,186.0,82870.0,421.7956989247312,445.5376344086021,469.2795698924731
+2023,SQ,Singapore Airlines Ltd.,SFO–SIN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),4,122.0,49864.0,403.61290322580646,408.80645161290323,414.0
+2024,OZ,Asiana Airlines Inc.,JFK–ICN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),3,106.0,46028.0,405.6521739130435,441.4193548387097,471.86206896551727
+2019,OZ,Asiana Airlines Inc.,LAX–ICN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),2,62.0,30548.0,492.5806451612903,492.7096774193548,492.83870967741933
+2023,OZ,Asiana Airlines Inc.,JFK–ICN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),2,61.0,27368.0,441.4193548387097,448.7763440860215,456.1333333333333
+2025,OZ,Asiana Airlines Inc.,SEA–ICN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),1,24.0,9960.0,415.0,415.0,415.0
+2025,SQ,Singapore Airlines Ltd.,SEA–SIN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),1,14.0,5810.0,415.0,415.0,415.0
+2025,SQ,Singapore Airlines Ltd.,LAX–SIN,359,Airbus Industrie A350-900,Airbus A380-800 (manual carrier-specific inference),1,10.0,4150.0,415.0,415.0,415.0

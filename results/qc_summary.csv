@@ -1,0 +1,7 @@
+rule,count
+Explicit freighter rows removed,14
+SQ low-seat A380-coded rows analyzed as 777-300ER,120
+A350-coded 400+ seat rows analyzed as A380 family,88
+Carrier-years with unreliable mechanical freight,3
+Confirmed premium/ULR configurations retained,600
+Remaining unresolved aircraft-seat rows excluded from the model,394

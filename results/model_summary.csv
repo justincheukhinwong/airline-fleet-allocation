@@ -1,0 +1,3 @@
+model,evaluation,observations,departures,weighted_r_squared,weighted_mae_seats,weighted_rmse_seats
+Market benchmark,"In-sample, departure-weighted",7599,273637.0,0.6581624277874594,24.416428344296474,32.81003976307257
+Airline-adjusted diagnostic,"In-sample, departure-weighted",7599,273637.0,0.7891792667616291,18.13147786443476,25.76638660500475

@@ -1,0 +1,113 @@
+YEAR,UNIQUE_CARRIER,UNIQUE_CARRIER_NAME,rows,departures,eligible_rows,mechanical_200lb_rows,reported_freight_tonnes,mechanical_200lb_share,unreliable_freight,quality_reason
+2019,3U,Sichuan Airlines Co Ltd.,96,1185.0,96,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2019,4O,ABC Aerolineas SA de CV dba Interjet,1,3.0,1,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2019,5J,Cebu Air Inc d/b/a Cebu Pacific Air,4,52.0,4,0,3.59517312462,0.0,False,No mechanical 200-lb pattern detected
+2019,7C,Jeju Air Co Ltd.,40,1406.0,39,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2019,AA,American Airlines Inc.,342,8144.0,342,0,60670.94371363795,0.0,False,No mechanical 200-lb pattern detected
+2019,AC,Air Canada,6,6.0,6,0,39.852172035829994,0.0,False,No mechanical 200-lb pattern detected
+2019,AM,Aeromexico,1,1.0,1,0,2.3151354564799997,0.0,False,No mechanical 200-lb pattern detected
+2019,BC,Skymark Airlines Inc.,4,66.0,4,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2019,BR,Eva Airways Corporation,144,6877.0,144,0,85501.390637971,0.0,False,No mechanical 200-lb pattern detected
+2019,BX,Air Busan,56,763.0,55,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2019,CA,Air China,236,6288.0,236,0,77610.66420361561,0.0,False,No mechanical 200-lb pattern detected
+2019,CI,China Airlines Ltd.,152,3380.0,152,0,18466.72922455053,0.0,False,No mechanical 200-lb pattern detected
+2019,CX,Cathay Pacific Airways Ltd.,196,9110.0,196,0,61673.96798549525,0.0,False,No mechanical 200-lb pattern detected
+2019,CZ,China Southern Airlines,150,3120.0,150,0,17582.27490539597,0.0,False,No mechanical 200-lb pattern detected
+2019,D7,Air Asia X Berhad dba Airasia X,24,686.0,24,0,670.4149659684399,0.0,False,No mechanical 200-lb pattern detected
+2019,DL,Delta Air Lines Inc.,596,14211.0,596,0,71127.76919094693,0.0,False,No mechanical 200-lb pattern detected
+2019,HA,Hawaiian Airlines Inc.,148,3948.0,148,0,12853.9187247548,0.0,False,No mechanical 200-lb pattern detected
+2019,HU,Hainan Airlines Company Limited,355,4111.0,355,0,29151.01585327393,0.0,False,No mechanical 200-lb pattern detected
+2019,HX,Hong Kong Airlines Limited,64,1278.0,64,0,6976.6724915040995,0.0,False,No mechanical 200-lb pattern detected
+2019,JD,Beijing Capital Airlines,24,207.0,24,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2019,JL,Japan Air Lines Co. Ltd.,426,13336.0,426,1,111582.50966041024,0.002347417840375587,False,No mechanical 200-lb pattern detected
+2019,KE,Korean Air Lines Co. Ltd.,382,11580.0,382,0,81261.32482926534,0.0,False,No mechanical 200-lb pattern detected
+2019,LJ,Jin Air Co Ltd.,48,1798.0,48,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2019,MF,"Xiamen Airlines Co., Ltd.",94,1116.0,94,0,8945.39355831429,0.0,False,No mechanical 200-lb pattern detected
+2019,MU,China Eastern Airlines,196,5658.0,196,0,35423.43039849152,0.0,False,No mechanical 200-lb pattern detected
+2019,NH,All Nippon Airways Co.,339,10567.0,339,2,138172.96936949197,0.0058997050147492625,False,No mechanical 200-lb pattern detected
+2019,NQ,Air Japan Co,10,300.0,10,0,1712.62780422426,0.0,False,No mechanical 200-lb pattern detected
+2019,OZ,Asiana Airlines Inc.,167,4896.0,167,0,19548.88948923988,0.0,False,No mechanical 200-lb pattern detected
+2019,PR,Philippine Airlines Inc.,176,4329.0,176,0,19669.6611793066,0.0,False,No mechanical 200-lb pattern detected
+2019,SQ,Singapore Airlines Ltd.,128,4384.0,128,0,29154.95938533871,0.0,False,No mechanical 200-lb pattern detected
+2019,TR,Scoot Tigerair Pte Ltd d/b/a Scoot,8,140.0,8,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2019,UA,United Air Lines Inc.,1105,25186.0,1105,1,165469.6075349548,0.0009049773755656109,False,No mechanical 200-lb pattern detected
+2019,UO,Hong Kong Express Airways Limited,12,208.0,12,0,2.85082804545,0.0,False,No mechanical 200-lb pattern detected
+2023,3U,Sichuan Airlines Co Ltd.,4,22.0,4,0,98.22225257691,0.0,False,No mechanical 200-lb pattern detected
+2023,7C,Jeju Air Co Ltd.,102,3574.0,101,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2023,AA,American Airlines Inc.,141,3652.0,141,0,20868.012758310408,0.0,False,No mechanical 200-lb pattern detected
+2023,AF,Compagnie Natl Air France,1,1.0,1,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2023,AM,Aeromexico,1,1.0,1,0,0.59556678181,0.0,False,No mechanical 200-lb pattern detected
+2023,BA,British Airways Plc,2,2.0,2,0,7.48563488211,0.0,False,No mechanical 200-lb pattern detected
+2023,BR,Eva Airways Corporation,158,6766.0,158,0,73229.84686812949,0.0,False,No mechanical 200-lb pattern detected
+2023,CA,Air China,74,471.0,74,0,7191.0679147006695,0.0,False,No mechanical 200-lb pattern detected
+2023,CI,China Airlines Ltd.,143,2963.0,143,0,23670.56632859842,0.0,False,No mechanical 200-lb pattern detected
+2023,CX,Cathay Pacific Airways Ltd.,123,3925.0,123,0,24009.24107165892,0.0,False,No mechanical 200-lb pattern detected
+2023,CZ,China Southern Airlines,52,371.0,52,0,2374.00584940519,0.0,False,No mechanical 200-lb pattern detected
+2023,DL,Delta Air Lines Inc.,333,7064.0,333,0,33620.60983382409,0.0,False,No mechanical 200-lb pattern detected
+2023,HA,Hawaiian Airlines Inc.,120,3117.0,120,0,13108.72197064045,0.0,False,No mechanical 200-lb pattern detected
+2023,JL,Japan Air Lines Co. Ltd.,520,11063.0,520,1,109244.23237480521,0.0019230769230769232,False,No mechanical 200-lb pattern detected
+2023,JX,STARLUX AIRLINES,32,559.0,31,21,13835.19233528586,0.6774193548387096,True,Freight mechanically follows approximately 200 lb per passenger
+2023,KE,Korean Air Lines Co. Ltd.,339,8631.0,339,0,67994.57853439482,0.0,False,No mechanical 200-lb pattern detected
+2023,LJ,Jin Air Co Ltd.,54,1422.0,54,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2023,MF,"Xiamen Airlines Co., Ltd.",24,272.0,24,0,2343.61243906097,0.0,False,No mechanical 200-lb pattern detected
+2023,MU,China Eastern Airlines,43,375.0,43,0,4443.28108716646,0.0,False,No mechanical 200-lb pattern detected
+2023,NH,All Nippon Airways Co.,354,10077.0,354,1,110881.36517215142,0.002824858757062147,False,No mechanical 200-lb pattern detected
+2023,OZ,Asiana Airlines Inc.,188,4454.0,188,0,18432.20313412324,0.0,False,No mechanical 200-lb pattern detected
+2023,PR,Philippine Airlines Inc.,174,3671.0,174,0,17285.76520186593,0.0,False,No mechanical 200-lb pattern detected
+2023,SQ,Singapore Airlines Ltd.,184,6101.0,184,0,34231.17872967947,0.0,False,No mechanical 200-lb pattern detected
+2023,UA,United Air Lines Inc.,624,16739.0,624,0,98145.33374358251,0.0,False,No mechanical 200-lb pattern detected
+2023,ZG,ZIPAIR Tokyo Inc.,86,1960.0,86,0,13111.97332074861,0.0,False,No mechanical 200-lb pattern detected
+2024,3U,Sichuan Airlines Co Ltd.,24,288.0,24,0,1394.8981424408798,0.0,False,No mechanical 200-lb pattern detected
+2024,7C,Jeju Air Co Ltd.,56,2818.0,56,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2024,AA,American Airlines Inc.,185,4740.0,185,0,26622.060128722518,0.0,False,No mechanical 200-lb pattern detected
+2024,AC,Air Canada,2,2.0,2,0,24.80787390004,0.0,False,No mechanical 200-lb pattern detected
+2024,AF,Compagnie Natl Air France,1,1.0,1,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2024,AY,Finnair Oy,1,1.0,1,0,13.747023957589999,0.0,False,No mechanical 200-lb pattern detected
+2024,BR,Eva Airways Corporation,160,7461.0,160,0,77272.20718489272,0.0,False,No mechanical 200-lb pattern detected
+2024,CA,Air China,120,1495.0,120,0,19616.02705670069,0.0,False,No mechanical 200-lb pattern detected
+2024,CI,China Airlines Ltd.,176,3308.0,176,0,26267.20710660123,0.0,False,No mechanical 200-lb pattern detected
+2024,CX,Cathay Pacific Airways Ltd.,185,5687.0,185,0,36312.12943504454,0.0,False,No mechanical 200-lb pattern detected
+2024,CZ,China Southern Airlines,90,965.0,90,0,6413.96031223794,0.0,False,No mechanical 200-lb pattern detected
+2024,DL,Delta Air Lines Inc.,364,9469.0,364,0,45471.97783715587,0.0,False,No mechanical 200-lb pattern detected
+2024,HA,Hawaiian Airlines Inc.,127,3585.0,127,0,15956.84479119577,0.0,False,No mechanical 200-lb pattern detected
+2024,HX,Hong Kong Airlines Limited,14,110.0,14,0,298.15805820262,0.0,False,No mechanical 200-lb pattern detected
+2024,JL,Japan Air Lines Co. Ltd.,465,11983.0,465,3,124944.03589536175,0.0064516129032258064,False,No mechanical 200-lb pattern detected
+2024,JX,STARLUX AIRLINES,60,1506.0,60,60,33164.80846898219,1.0,True,Freight mechanically follows approximately 200 lb per passenger
+2024,KE,Korean Air Lines Co. Ltd.,332,9457.0,332,1,78814.67253306569,0.0030120481927710845,False,No mechanical 200-lb pattern detected
+2024,LJ,Jin Air Co Ltd.,48,1528.0,48,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2024,MF,"Xiamen Airlines Co., Ltd.",40,472.0,40,0,3091.30639069868,0.0,False,No mechanical 200-lb pattern detected
+2024,MU,China Eastern Airlines,68,1151.0,68,0,16329.04590710008,0.0,False,No mechanical 200-lb pattern detected
+2024,NH,All Nippon Airways Co.,328,10960.0,328,1,111890.02351483649,0.003048780487804878,False,No mechanical 200-lb pattern detected
+2024,OZ,Asiana Airlines Inc.,161,4572.0,161,0,18473.14755658603,0.0,False,No mechanical 200-lb pattern detected
+2024,PR,Philippine Airlines Inc.,189,3716.0,189,0,20347.39122942603,0.0,False,No mechanical 200-lb pattern detected
+2024,SQ,Singapore Airlines Ltd.,216,6288.0,216,0,41461.584896260756,0.0,False,No mechanical 200-lb pattern detected
+2024,UA,United Air Lines Inc.,780,23410.0,780,1,141335.52423530078,0.001282051282051282,False,No mechanical 200-lb pattern detected
+2024,YP,Air Premia,70,1474.0,70,0,13143.3424082807,0.0,False,No mechanical 200-lb pattern detected
+2024,ZG,ZIPAIR Tokyo Inc.,90,2280.0,90,0,16835.76165469737,0.0,False,No mechanical 200-lb pattern detected
+2025,3U,Sichuan Airlines Co Ltd.,24,310.0,24,0,1624.35192513671,0.0,False,No mechanical 200-lb pattern detected
+2025,7C,Jeju Air Co Ltd.,46,1656.0,46,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2025,AA,American Airlines Inc.,207,5018.0,207,0,28258.37509902561,0.0,False,No mechanical 200-lb pattern detected
+2025,AC,Air Canada,3,3.0,3,0,24.22228615037,0.0,False,No mechanical 200-lb pattern detected
+2025,AF,Compagnie Natl Air France,1,1.0,1,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2025,AM,Aeromexico,2,2.0,1,0,7.448440307769999,0.0,False,No mechanical 200-lb pattern detected
+2025,BR,Eva Airways Corporation,174,7776.0,174,0,84795.42174126484,0.0,False,No mechanical 200-lb pattern detected
+2025,CA,Air China,122,1492.0,122,0,11905.803170063109,0.0,False,No mechanical 200-lb pattern detected
+2025,CI,China Airlines Ltd.,181,3428.0,181,0,27405.09164753745,0.0,False,No mechanical 200-lb pattern detected
+2025,CX,Cathay Pacific Airways Ltd.,228,7667.0,228,0,54234.130057022296,0.0,False,No mechanical 200-lb pattern detected
+2025,CZ,China Southern Airlines,96,1045.0,96,0,7586.92614066233,0.0,False,No mechanical 200-lb pattern detected
+2025,DL,Delta Air Lines Inc.,388,10601.0,388,0,62399.918986877004,0.0,False,No mechanical 200-lb pattern detected
+2025,HA,Hawaiian Airlines Inc.,127,3736.0,127,0,15611.15433494848,0.0,False,No mechanical 200-lb pattern detected
+2025,HX,Hong Kong Airlines Limited,24,124.0,18,0,2.36684498666,0.0,False,No mechanical 200-lb pattern detected
+2025,JL,Japan Air Lines Co. Ltd.,464,13169.0,464,2,134415.20605984548,0.004310344827586207,False,No mechanical 200-lb pattern detected
+2025,JX,STARLUX AIRLINES,82,2422.0,81,69,48644.645091261445,0.8518518518518519,True,Freight mechanically follows approximately 200 lb per passenger
+2025,KE,Korean Air Lines Co. Ltd.,423,10340.0,423,0,75348.48792429497,0.0,False,No mechanical 200-lb pattern detected
+2025,LJ,Jin Air Co Ltd.,48,2116.0,48,0,0.0,0.0,False,No mechanical 200-lb pattern detected
+2025,MF,"Xiamen Airlines Co., Ltd.",48,522.0,48,0,2938.6598576073197,0.0,False,No mechanical 200-lb pattern detected
+2025,MU,China Eastern Airlines,72,1258.0,72,1,17424.098627721938,0.013888888888888888,False,No mechanical 200-lb pattern detected
+2025,NH,All Nippon Airways Co.,356,10764.0,356,0,109218.38214563891,0.0,False,No mechanical 200-lb pattern detected
+2025,OZ,Asiana Airlines Inc.,144,4927.0,144,0,21905.40799200446,0.0,False,No mechanical 200-lb pattern detected
+2025,PR,Philippine Airlines Inc.,173,3690.0,173,0,18353.10705741975,0.0,False,No mechanical 200-lb pattern detected
+2025,SQ,Singapore Airlines Ltd.,182,5343.0,182,0,36986.22938542686,0.0,False,No mechanical 200-lb pattern detected
+2025,UA,United Air Lines Inc.,810,23769.0,810,0,149444.9992188276,0.0,False,No mechanical 200-lb pattern detected
+2025,YP,Air Premia,76,1928.0,76,0,16986.65505327868,0.0,False,No mechanical 200-lb pattern detected
+2025,ZG,ZIPAIR Tokyo Inc.,106,2408.0,106,0,16174.015292512,0.0,False,No mechanical 200-lb pattern detected

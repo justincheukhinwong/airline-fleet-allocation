@@ -1,0 +1,17 @@
+{
+  "years": [
+    2019,
+    2023,
+    2024,
+    2025
+  ],
+  "market_model_observations": 7599,
+  "market_model_routes": 45,
+  "market_model_carriers": 20,
+  "market_model_weighted_r_squared": 0.6581624277874594,
+  "airline_adjusted_weighted_r_squared": 0.7891792667616291,
+  "freight_incremental_r_squared": 0.0036865612370804435,
+  "a350_to_a380_corrected_rows": 88,
+  "remaining_unresolved_rows_excluded": 394,
+  "interpretation": "Descriptive benchmark, not an efficiency, profit, or causal model."
+}
